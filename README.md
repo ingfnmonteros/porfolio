@@ -10,6 +10,7 @@ Optimisando, filtros, codigo sql, like, `consultas espaciales`, busquedas fullse
     <?php
         echo "Hello world!";
     ?>
+[![TucmaGIS](http://www.tucmagis.com.ar/lib/img/tucmagisdeporte.png "TucmaGIS")](http://www.tucmagis.com.ar/ "TucmaGIS")
 ## Porfolio
 
 - Traje en varios proyectos de desarrollo de sistemas web, explotando principalmente el poder de las base de datos en mysql, postgres y sqlite.
@@ -21,8 +22,9 @@ Optimisando, filtros, codigo sql, like, `consultas espaciales`, busquedas fullse
 
 ## Proyectos
 - **InfraGIS  v10.2** – sistema de agua y cloacas para la construcción colaborativa de redes de agua y cloacas, seguimiento de factibilidades y reclamos del servicio de agua y cloacas.
+[![TucmaGIS](http://www.tucmagis.com.ar/lib/img/InfraGIS.png "TucmaGIS")](http://www.tucmagis.com.ar/ "TucmaGIS")
 - **Sistema de Nutrición**  –  desarrollado para la gestión de dietas a cargo de un nutricionista.
 - **Carrito E-comerce**  para la administración de venta de productos. Sistema web de filtros y selección de productos.
 
 
-........ **( :-)>** despues les sigo contando mas..... 
+........ **( :-)>** despues nos vemos..... 
